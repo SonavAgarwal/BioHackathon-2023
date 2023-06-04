@@ -1,0 +1,48 @@
+{
+	"messages": [
+		{
+			"text": "Hi, I’m QuackGPT! Is there anything I can help with?",
+			"sender": "AI"
+		},
+		{
+			"text": "My throat feels very bad. It has been feeling very sore lately, and it hurts whenever I try to swallow food. My throat also appears very red and swollen. Other people also think that my voice sounds different than usual.",
+			"sender": "Person"
+		},
+		{
+			"text": "Sorry to hear that. Have you been in contact with any sick people in the last 14 days?",
+			"sender": "AI"
+		},
+		{
+			"text": "No, I have not.",
+			"sender": "Person"
+		},
+		{
+			"text": "Do you have any accompanying symptoms (cough, runny nose, high temperature, etc.)?",
+			"sender": "AI"
+		},
+		{
+			"text": "No, just a sore throat.",
+			"sender": "Person"
+		},
+		{
+			"text": "Do you have any known allergies?",
+			"sender": "AI"
+		},
+		{
+			"text": "Just to cats, but I have not been in contact with one recently.",
+			"sender": "Person"
+		},
+		{
+			"text": "Have you been exposed to any new conditions in your household in the last 14 days?",
+			"sender": "AI"
+		},
+		{
+			"text": "No.",
+			"sender": "Person"
+		},
+		{
+			"text": "It appears that you most likely have Strep throat, which is a bacterial infection affecting the throat.",
+			"sender": "AI"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"date": "2023-06-04",
+	"causes": [
+		{
+			"name": "Strep throat",
+			"amount": 85
+		},
+		{
+			"name": "Flu",
+			"amount": 7
+		},
+		{
+			"name": "Chicken pox (early stage)",
+			"amount": 5
+		},
+		{
+			"name": "Other",
+			"amount": 3
+		}
+	],
+	"treatments": [
+		"Medication, such as penicillin",
+		"Proper sleep",
+		"Honey to sooth throat",
+		"Gargling with salt water"
+	]
+}

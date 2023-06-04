@@ -1,0 +1,14 @@
+{
+	"date": "2014-06-30",
+	"causes": [
+		{
+			"name": "Cause 1",
+			"amount": 35
+		},
+		{
+			"name": "Cause 2",
+			"amount": 68
+		}
+	],
+	"treatments": ["Treatment 1", "Treatment 2", "Treatment 3"]
+}

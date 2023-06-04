@@ -1,0 +1,27 @@
+{
+	"date": "2023-06-05",
+	"causes": [
+		{
+			"name": "Viral gastroenteritis",
+			"amount": 79
+		},
+		{
+			"name": "Norovirus",
+			"amount": 8
+		},
+		{
+			"name": "Rotavirus",
+			"amount": 6
+		},
+		{
+			"name": "Other",
+			"amount": 7
+		}
+	],
+	"treatments": [
+		"Avoid eating solid food for some time, ease back into solids",
+		"Take several small quantities of water",
+		"Avoid sugary and carbohydrate-high foods",
+		"Responsibly use anti-diarrheal medication to ease with bowel movements temporarily"
+	]
+}

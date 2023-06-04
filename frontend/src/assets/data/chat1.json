@@ -1,0 +1,48 @@
+{
+	"messages": [
+		{
+			"text": "Hi, I am QuackGPT! How can I help you today?",
+			"sender": "AI"
+		},
+		{
+			"text": "I am not feeling well. I have been coughing a lot recently, and I have been feeling very tired. I also have been feeling very hot, and even when the fan or AC is on I feel uncomfortable.",
+			"sender": "Person"
+		},
+		{
+			"text": "I am sorry to hear that. Have you taken your temperature within the last 24 hours?",
+			"sender": "AI"
+		},
+		{
+			"text": "Yes, it was recorded at 101 degrees fahrenheit.",
+			"sender": "Person"
+		},
+		{
+			"text": "Have you been in contact with anyone who has been confirmed to be sick within the last 14 days?",
+			"sender": "AI"
+		},
+		{
+			"text": "Yes, I met up with a friend last week who confirmed two days ago that they had COVID-19.",
+			"sender": "Person"
+		},
+		{
+			"text": "Have you gotten COVID-19 in the past? If so, are the symptoms very similar to what you are feeling now?",
+			"sender": "AI"
+		},
+		{
+			"text": "I have not gotten it yet.",
+			"sender": "Person"
+		},
+		{
+			"text": "Do you have wet or dry coughs?",
+			"sender": "AI"
+		},
+		{
+			"text": "Mostly dry, my throat feels very dry.",
+			"sender": "Person"
+		},
+		{
+			"text": "I believe that you most likely have COVID-19, at an approximate 91% chance.",
+			"sender": "AI"
+		}
+	]
+}

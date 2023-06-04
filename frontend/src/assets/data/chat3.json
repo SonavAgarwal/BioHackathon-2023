@@ -1,0 +1,48 @@
+{
+	"messages": [
+		{
+			"text": "Hello! How are you doing today?",
+			"sender": "AI"
+		},
+		{
+			"text": "I have been feeling very bad the last couple of days. My bowel movements have been all over the place, and I have had intense diarrhea. My stomach has been hurting very bad as well, and I sometimes find myself nauseous and vomiting.",
+			"sender": "Person"
+		},
+		{
+			"text": "I am sorry about that. Is your diarrhea accompanied with blood?",
+			"sender": "AI"
+		},
+		{
+			"text": "No, just normal diarrhea.",
+			"sender": "Person"
+		},
+		{
+			"text": "Have you been in contact with anyone sick within the past 14 days?",
+			"sender": "AI"
+		},
+		{
+			"text": "I met up with someone who got the common cold a few days ago, but they had completely different symptoms compared to what I have right now.",
+			"sender": "Person"
+		},
+		{
+			"text": "Have you had any food that expired or tasted odd within the last week?",
+			"sender": "AI"
+		},
+		{
+			"text": "I had undercooked meat 2 days ago that made me feel very bad after eating it.",
+			"sender": "Person"
+		},
+		{
+			"text": "Did you check your temperature recently?",
+			"sender": "AI"
+		},
+		{
+			"text": "I measured yesterday and it was about 99 degrees fahrenheit.",
+			"sender": "Person"
+		},
+		{
+			"text": "Based on what you said, you likely have viral gastroenteritis, otherwise known as the stomach flu.",
+			"sender": "AI"
+		}
+	]
+}

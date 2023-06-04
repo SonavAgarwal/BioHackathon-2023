@@ -1,0 +1,27 @@
+{
+	"date": "2023-06-03",
+	"causes": [
+		{
+			"name": "COVID-19",
+			"amount": 91
+		},
+		{
+			"name": "Influenza",
+			"amount": 6
+		},
+		{
+			"name": "Allergies (pollen/food)",
+			"amount": 2
+		},
+		{
+			"name": "Other",
+			"amount": 1
+		}
+	],
+	"treatments": [
+		"Isolate yourself and stay away from others",
+		"Wear a mask if, for any reason, you need to leave the house",
+		"Drink lots of water",
+		"Ensure adequate sleep"
+	]
+}
